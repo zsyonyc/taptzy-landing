@@ -1,5 +1,14 @@
 {
   "appclips": {
-    "apps": ["LFQS8P6TZ8.com.zs.taptzy.Clip"]
+    "apps": ["LFQS8P6TZ8.com.zachschwartz.taptzy.Clip"]
+  },
+  "applinks": {
+    "details": [{
+      "appIDs": ["LFQS8P6TZ8.com.zachschwartz.taptzy.Clip"],
+      "components": [{
+        "/": "/*",
+        "comment": "Matches all custom user paths"
+      }]
+    }]
   }
 }
