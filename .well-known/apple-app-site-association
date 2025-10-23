@@ -1,0 +1,12 @@
+{
+     "applinks": {
+       "apps": [],
+       "details": [{
+         "appID": "LFQS8P6TZ8.com.zs.taptzy",
+         "paths": ["/clip", "/clip/*"]
+       }]
+     },
+     "appclips": {
+       "apps": ["LFQS8P6TZ8.com.zs.taptzy.Clip"]
+     }
+   }
